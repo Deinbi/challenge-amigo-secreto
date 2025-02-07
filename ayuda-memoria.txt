@@ -6,6 +6,7 @@ Creamos un nuevo archivo HTML llamado "contacto.html" en nuestro proyecto local.
 Usamos el comando git status para verificar el estado de nuestros archivos, viendo que el nuevo archivo "contacto.html" está como "Untracked".
 Utilizamos git add . para agregar los cambios al área de preparación (staging area).
 Hicimos un git commit para registrar los cambios con un mensaje descriptivo.
+$ git commit -m "Agrego documento"
 Finalmente, usamos git push para enviar los cambios del proyecto local al repositorio remoto en GitHub.
-
 En resumen, aprendimos los comandos básicos para trabajar localmente con Git y mantener nuestro proyecto sincronizado con el repositorio remoto.
+ 
