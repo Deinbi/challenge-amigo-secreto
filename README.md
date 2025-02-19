@@ -26,7 +26,7 @@ Este proyecto usa únicamente HTML, CSS y JavaScript puro, sin bibliotecas exter
 - **El nombre ingresado no se agrega**: Verifica que el campo de texto no esté vacío antes de presionar el botón.
 
 ## Autor
-Desarrollado para fines educativos y de práctica en lógica de programación.
+Por Walter Néstor Mancuso, desarrollado para fines educativos y de práctica en lógica de programación.
 
 ## Licencia
 Este proyecto es de uso libre para cualquier propósito educativo o personal.
